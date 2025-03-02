@@ -3,3 +3,10 @@
 - MongoDB
 - Render
 - JavaScript
+- Cloudinary
+- Express
+- Mongoose
+- Nodemon
+- Vite
+- TailwindCSS
+- React
